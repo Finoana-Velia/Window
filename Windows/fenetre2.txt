@@ -1,0 +1,2 @@
+Startposition : manual
+location : 500,150
